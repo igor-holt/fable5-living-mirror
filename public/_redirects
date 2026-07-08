@@ -1,0 +1,8 @@
+# Fable 5 Living Mirror — Cloudflare Pages redirects
+# Exact /live route for 1/13 audience surface (broadcast 1nxeLLzpWlRJX)
+
+/live              /live/index.html          200
+/live/             /live/index.html          200
+/grove             /fable5-living-mirror.html 200
+/mirror            /fable5-living-mirror.html 200
+/broadcast         https://x.com/i/broadcasts/1nxeLLzpWlRJX 302

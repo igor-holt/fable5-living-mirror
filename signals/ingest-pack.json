@@ -1,0 +1,65 @@
+{
+  "schema": "fable5-ingest-pack-v1",
+  "broadcast_id": "1nxeLLzpWlRJX",
+  "broadcast_url": "https://x.com/i/broadcasts/1nxeLLzpWlRJX",
+  "surface": "1/13 audience · Living Mirror Grove",
+  "collected_at": "2026-07-08T19:32:00Z",
+  "source": "x_keyword_search + x_semantic_search (cold-path, real posts)",
+  "notes": "Broadcast ID query returned zero direct hits at collection time; pack uses @InvariantX structural signals + concurrent X Live ecosystem posts. Zero synthetic posts.",
+  "signals": [
+    {
+      "id": "2074925708548145154",
+      "author": "InvariantX",
+      "text": "or getting inspired by people, jealousy gets in the way of the flow ~ bout time we dropped it along with egos",
+      "url": "https://x.com/InvariantX/status/2074925708548145154",
+      "metrics": { "likes": 0, "reposts": 0, "quotes": 0, "replies": 0, "views": 3 },
+      "ts": "2026-07-08T18:36:53Z",
+      "source": "x_keyword_search:from:InvariantX"
+    },
+    {
+      "id": "2074885222726770998",
+      "author": "InvariantX",
+      "text": "Let it flow",
+      "url": "https://x.com/InvariantX/status/2074885222726770998",
+      "metrics": { "likes": 2, "reposts": 0, "quotes": 0, "replies": 0, "views": 36 },
+      "ts": "2026-07-08T15:56:01Z",
+      "source": "x_keyword_search:from:InvariantX"
+    },
+    {
+      "id": "2074239431217750202",
+      "author": "InvariantX",
+      "text": "This made me realize my love for wet foods in odd shaped containers is my fascination with your food container licking epoch",
+      "url": "https://x.com/InvariantX/status/2074239431217750202",
+      "metrics": { "likes": 1, "reposts": 0, "quotes": 0, "replies": 1, "views": 26 },
+      "ts": "2026-07-08T21:09:52Z",
+      "source": "x_keyword_search:from:InvariantX"
+    },
+    {
+      "id": "2074240314655797732",
+      "author": "InvariantX",
+      "text": "https://t.co/8Jdm9QjDv9",
+      "url": "https://x.com/InvariantX/status/2074240314655797732",
+      "metrics": { "likes": 0, "reposts": 0, "quotes": 0, "replies": 0, "views": 55 },
+      "ts": "2026-07-06T21:13:23Z",
+      "source": "x_keyword_search:from:InvariantX"
+    },
+    {
+      "id": "2074841385941750116",
+      "author": "The_Vanguard__",
+      "text": "LIVE NOW ON X! FIRST LIVE STREAM EVER ON X! https://twitter.com/i/broadcasts/1DGLddopowRGm",
+      "url": "https://x.com/The_Vanguard__/status/2074841385941750116",
+      "metrics": { "likes": 3, "reposts": 0, "quotes": 0, "replies": 0, "views": 100 },
+      "ts": "2026-07-08T13:01:49Z",
+      "source": "x_semantic_search:live broadcast X"
+    },
+    {
+      "id": "2072439184258990590",
+      "author": "blankspeaker",
+      "text": "Check out the new Live Studio on X. X will be allocating $1M of the next Revshare Cycle just for Streaming on X! https://studio.x.com/live",
+      "url": "https://x.com/blankspeaker/status/2072439184258990590",
+      "metrics": { "likes": 12, "reposts": 1, "quotes": 0, "replies": 0, "views": 824 },
+      "ts": "2026-07-01T21:56:20Z",
+      "source": "x_semantic_search:X Live Studio revshare"
+    }
+  ]
+}
